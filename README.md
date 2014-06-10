@@ -8,9 +8,12 @@ iOS design weekly homework
   requirment page --> http://guides.codepath.com/ios/Week-1-Homework 
 
 How many hours did it take to complete?
+
     I spent around 6 hours to explore all of the requriment and the implementations. 
 Which required and optional stories have you completed?
+
     I completed: 
+    
       Add a container view and modify properties: backgroundColor, cornerRadius, font, textColor, shadowOffset.
       Add buttons with different images for default and highlighted.
       Add UIImageViews and choose the right mode: aspect fill, aspect fit, etc.
