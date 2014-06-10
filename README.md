@@ -19,3 +19,4 @@ Which required and optional stories have you completed?
       Add UIImageViews and choose the right mode: aspect fill, aspect fit, etc.
       Add a UITextField with a background image.
       Add UILabels with attributed text (instead of plain text), so that you can bold individual words.
+      Optional: Move the textfield when the keyboard appears
